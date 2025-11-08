@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="task 6kas.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="searching.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -37,4 +37,5 @@ int binarySearchFirst(std::vector<T> arr, T target) {
         }
     }
     return ans;
+
 }
